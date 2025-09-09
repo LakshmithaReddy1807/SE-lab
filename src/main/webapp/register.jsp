@@ -3,7 +3,7 @@
     <title>Passenger Registration</title>
 </head>
 <body>
-    <h2><b>Passenger Registration Form</b></h2>
+    <h2><b>Passengers Registration Form</b></h2>
     <form action="register.jsp" method="post">
         <label>Name:</label>
         <input type="text" name="name" required><br><br>
