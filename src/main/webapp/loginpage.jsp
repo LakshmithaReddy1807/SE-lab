@@ -10,7 +10,7 @@
         {
     %>
 
-        <p><b>Flight 1:</b> Time:5:00 a.m.</p>
+        <p><b>Flight 1:</b> Time:4:00 a.m.</p>
         <p><b>Flight 2:</b> Time:8:00 a.m.</p>
     <%
         }
